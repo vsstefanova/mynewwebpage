@@ -28,21 +28,21 @@ My principal research interests lie in the field of Psycholinguistics, including
 
 ## Education
 
-2017 - 2018        University of Glasgow – MSc Research Methods of Psychological Science
+2017 - 2018 - University of Glasgow – MSc Research Methods of Psychological Science
 Modules included:  Cognitive Brain Imaging Methods, Matlab programming, Statistics, R programming, Research Methods in Cognitive Sciences, Qualitative Methods
 
-2013 - 2017        University of Glasgow  - BSc (Hons) Psychology
+2013 - 2017 - University of Glasgow  - BSc (Hons) Psychology
 Degree classification:   Upper Second Class Honours, 2:1 
 Modules included:   Statistics using R and SPSS, Neuropsychology, Physiological Psychology, Occupational Psychology, Neuropsychological Deficits, Cognitive Psychology, Individual Differences, Perception and Visual Cognition, Research Mini Projects using E-Prime and Matlab
 Additional subjects included Archaeology Level 1 and 2, German language Level 1 and 2
 
-2008 - 2013        Fifth Language School "Yoan Exarch"
+2008 - 2013 - Fifth Language School "Yoan Exarch"
 Highers: English (A), German (B), History and civilization (A), Mathematics (B), Philosophy (A), Geography and economics (A), Ethics and law (A), Informatics (A), Physics and astronomy (A)
 
 
 ## Professional Appointments
 
-June 2016 – Aug 2016     Medical Research Scotland -  Research assistant
+June 2016 - Aug 2016 - Medical Research Scotland - Research assistant
 
 * I was awarded a Vacation Scholarship by Medical Research Scotland (MRS) for my research project titled "The pseudohomophone effect in written word processing: an eye tracking investigation", which I conducted under the supervision of Dr Christoph Scheepers at the University of Glasgow
 
@@ -53,7 +53,7 @@ June 2016 – Aug 2016     Medical Research Scotland -  Research assistant
 
 ## Grants and Awards
 
-* £ 2000 Vacation Scholarship awarded by Medical Research Scotland for my research project titled ‘The pseudohomophone effect in written word processing: an eye tracking investigation’, June - August 2016
+* 2000 GBP Vacation Scholarship awarded by Medical Research Scotland for my research project titled "The pseudohomophone effect in written word processing: an eye tracking investigation", June - August 2016
 
 
 ## Technical skills
