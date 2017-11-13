@@ -1,7 +1,6 @@
 ---
 title: "My Academic Webpage"
 author: "Vasilena Stefanova"
-date: "23 October 2017"
 output: html_document
 ---
 
@@ -52,12 +51,20 @@ June 2016 - Aug 2016 - Medical Research Scotland - Research assistant
 * The study is to be submitted to Frontiers in Psychology
 
 
+## Research Experience
+
+September 2017 – present - Research Assistant for Communication Projects
+
+* Providing assistance in the development of the experimental design and in the statistical analysis of the dissertation projects of undergraduate students. Providing training sessions in the use of a desk-mounted eye-tracking device and the operation of the system Eyelink II.
+
+
+
 ## Grants and Awards
 
 * 2000 GBP Vacation Scholarship awarded by Medical Research Scotland for my research project titled "The pseudohomophone effect in written word processing: an eye tracking investigation", June - August 2016
 
 
-## Technical skills
+## Technical Skills
 
 * Confident in use of statistical packages and programming languages for data analysis: R, SPSS
 
